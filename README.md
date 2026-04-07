@@ -80,3 +80,8 @@ With features like **one-tap calling** and an **SOS button**, users can quickly 
 
 The Emergency Contact App provides a **fast, reliable, and user-friendly solution** for handling emergency situations. By minimizing response time and simplifying communication, it ensures that users can quickly connect with their trusted contacts when it matters most.
 
+Subject
+Mobile Application Development (MAD) – Group Project
+
+Group Members
+Divya H.R Jamuna S Amulya N
