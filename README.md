@@ -39,7 +39,7 @@ With features like **One-tap calling** and an **SOS button**, users can quickly 
 
 12.Dark Mode UI
 
-13.Backup & Restore Contacts
+13.Backup & Restore Contact
 
 14.Fake Call Feature
 
